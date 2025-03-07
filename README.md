@@ -1,4 +1,6 @@
 This project is an e-commerce platform designed to facilitate online shopping, allowing users to browse products, add them to the cart, and make purchases securely.
+
+
 Features :
 User authentication and authorization
 Product catalog with detailed descriptions and images
